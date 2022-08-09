@@ -11,7 +11,7 @@ Used TF-IDF vectorization and a 135,000-row labeled Twitter dataset to train a r
 ### Reduce human error and improve data accuracy by letting machine learning categorize your helpdesk ticket for you!
 Used SVM and multi-class classification to take inputs sourced from helpdesk ticket data and automatically categorize the nature of the issue from a list of over 50 categories, automating an otherwise manual (and often inaccurate) task.
  - Python tools: Support Vector Machines, NLP, n-gram work vectorization, Pandas, k-NN, Multi-class Classification.
-![](https://github.com/dpowell022/dpowell-ds-portfolio/blob/main/images/Capture.JPG)
+![](https://github.com/dpowell022/dpowell-ds-portfolio/blob/main/images/helpdesk.JPG)
 
 # [Tableau Dashboard](https://public.tableau.com/app/profile/derek.powell/viz/ChemicorpDashboard_16581921872730/Dashboard1?publish=yes)
 ### Explored a practice data set to answer questions about segmentations and revenue opportunity
