@@ -5,9 +5,8 @@ Data Science Project Portfolio
 # [Project 1 - Abusive Language Detection](https://github.com/dpowell022/Capstone_2)
 ### Improve user engagement on your social platform by detecting abusive language in text!
 Used TF-IDF vectorization and a 135,000-row labeled Twitter dataset to train a random forest model to perform supervised classification of whether a tweet is ‘abusive’ or not with a 92% Recall score. 
- - Python tools:  NLP, Random Forest, TF-IDF vectorization, Seaborn, Sci-kit Learn, GridSearchCV, Supervised Classification
-<br>
 ![](/images/abusive_language.jpg)
+ - Python tools:  NLP, Random Forest, TF-IDF vectorization, Seaborn, Sci-kit Learn, GridSearchCV, Supervised Classification
 
 ---
 # [Project 2 - Helpdesk Ticket Auto-Categorization](https://github.com/dpowell022/Capstone_3)
