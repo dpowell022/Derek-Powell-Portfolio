@@ -1,5 +1,4 @@
 # Derek Powell
-Data Science Project Portfolio
 
 ---
 # [Project 1 - Abusive Language Detection](https://github.com/dpowell022/Capstone_2)
