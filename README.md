@@ -33,7 +33,7 @@ In this mock take-home challenge, my goal was to define and then isolate 'adopte
 
  - Python tools: **Time series analysis**, Heatmap correlation, Seaborn
 
-![](/images/relax_inc_resize.JPG)
+![](/images/user_adoption.jpg)
 
 ---
 # [Project 4 - Improving User Engagement](https://github.com/dpowell022/26.2.2-Ultimate-Tech-Take-Home-Challenge/blob/main/Ultimate%20Tech%20Take-Home%20Challenge.ipynb)
@@ -42,4 +42,4 @@ In this mock take-home challenge, my goal was formulate an A/B experiment (and a
 
  - Python tools: **Time series analysis**, Heatmap correlation, **RandomForest** supervised learning, Seaborn visualizations
 
-![](/images/ultimate_tech.png)
+![](/images/user_engagement.jpg)
