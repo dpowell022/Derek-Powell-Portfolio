@@ -1,6 +1,14 @@
 My recent data science projects
 
 ---
+# [Tableau Dashboard](https://public.tableau.com/app/profile/derek.powell/viz/ChemicorpDashboard_16581921872730/Dashboard1?publish=yes)
+Explored a practice data set to answer questions about segmentations and revenue opportunity, such as 
+ - "Which of our customers spends the most, and on what products?" and 
+ - "From which customer segment / product would we get the most value from further investment?"
+
+![](/images/tableau-dashboard.JPG)
+
+---
 # [Project 1 - Abusive Language Detection](https://github.com/dpowell022/Capstone_2)
 ### Improve user engagement on your social platform by detecting abusive language in text!
 Used TF-IDF vectorization and a 135,000-row labeled Twitter dataset to train a random forest model to perform supervised classification of whether a tweet is ‘abusive’ or not with a 92% Recall score. 
@@ -17,14 +25,6 @@ Used SVM and multi-class classification to take inputs sourced from helpdesk tic
  - Python tools: **Support Vector Machines**, NLP, **n-gram** word vectorization, Pandas, k-NN, **RandomSearchCV**, Multi-class Classification.
 
 ![](/images/helpdesk.JPG)
-
----
-# [Tableau Dashboard](https://public.tableau.com/app/profile/derek.powell/viz/ChemicorpDashboard_16581921872730/Dashboard1?publish=yes)
-Explored a practice data set to answer questions about segmentations and revenue opportunity, such as 
- - "Which of our customers spends the most, and on what products?" and 
- - "From which customer segment / product would we get the most value from further investment?"
-
-![](/images/tableau-dashboard.JPG)
 
 ---
 # [Project 3 - Predicting User Adoption](https://github.com/dpowell022/26.2.3-Relax-Inc-Take-Home-Challenge/blob/main/relax%20inc%20takehome%20challenge.ipynb)
