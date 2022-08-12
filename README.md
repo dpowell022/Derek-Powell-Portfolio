@@ -27,7 +27,7 @@ Used SVM and multi-class classification to take inputs sourced from helpdesk tic
 ![](/images/helpdesk.JPG)
 
 ---
-# [Project 3 - Predicting User Adoption](https://github.com/dpowell022/26.2.3-Relax-Inc-Take-Home-Challenge/blob/main/relax%20inc%20takehome%20challenge.ipynb)
+# [Project 3 - Predicting User Adoption](https://github.com/dpowell022/predicting-user-adoption)
 ### Identifying the factors that influence user adoption is pivotal towards growing your business!
 In this mock take-home challenge, my goal was to define and then isolate 'adopted users' from a dataset of users subscribing to a product and then determine which variables seemed to have the most positive correlation with the user adoption rate. 
 
@@ -36,7 +36,7 @@ In this mock take-home challenge, my goal was to define and then isolate 'adopte
 ![](/images/user_adoption.jpg)
 
 ---
-# [Project 4 - Improving User Engagement](https://github.com/dpowell022/26.2.2-Ultimate-Tech-Take-Home-Challenge/blob/main/Ultimate%20Tech%20Take-Home%20Challenge.ipynb)
+# [Project 4 - Improving User Engagement](https://github.com/dpowell022/improving-user-engagement)
 ### Running A/B Experiments to identify best-value marketing campaigns can drive user engagement!
 In this mock take-home challenge, my goal was formulate an A/B experiment (and a success metric to measure on) which would show the effectiveness of a chosen marketing campaign in driving increased user engagement.
 
