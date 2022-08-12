@@ -31,7 +31,7 @@ Used SVM and multi-class classification to take inputs sourced from helpdesk tic
 ### Identifying the factors that influence user adoption is pivotal towards growing your business!
 In this mock take-home challenge, my goal was to define and then isolate 'adopted users' from a dataset of users subscribing to a product and then determine which variables seemed to have the most positive correlation with the user adoption rate. 
 
- - Python tools: **Time series analysis**, Heatmap correlation, Seaborn
+ - Python tools: **Time series analysis**, Heatmap correlation, Seaborn, **OneHot Encoding**
 
 ![](/images/user_adoption.jpg)
 
